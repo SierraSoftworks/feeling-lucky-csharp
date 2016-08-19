@@ -19,6 +19,7 @@ a couple of imports!
 
 ```csharp
 using System;
+using FeelingLucky;
 
 namespace MyAwesomeApp
 {
